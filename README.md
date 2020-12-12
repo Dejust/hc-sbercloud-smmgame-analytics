@@ -1,1 +1,3 @@
-# hc-sbercloud-smmgame-analytics
+# SMMGAME analytics backend
+
+Special for SBERCLOUD.ADVANCED HACKING ❤️
